@@ -1,0 +1,2 @@
+07:28:07,136  WARN pooling:86 - HHH10001002: Using built-in connection pool (not intended for production use)
+07:28:07,297  WARN deprecation:153 - HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)

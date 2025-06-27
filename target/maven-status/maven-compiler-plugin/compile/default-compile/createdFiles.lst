@@ -1,0 +1,10 @@
+appconsole\Cadastrar.class
+appconsole\Apagar.class
+modelo\TipoMaterial.class
+appconsole\Listar.class
+appconsole\Consultar.class
+appconsole\JPAUtil.class
+appconsole\Alterar.class
+appconsole\ApagarBanco.class
+modelo\MaterialWeb.class
+modelo\PalavraChave.class
